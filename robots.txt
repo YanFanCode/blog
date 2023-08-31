@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://yanfancode.github.io/blog/blog/sitemap.xml
