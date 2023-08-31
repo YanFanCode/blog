@@ -14,6 +14,7 @@ export default hopeTheme({
   favicon: '/favicon.ico',
 
   navbar: Navbar,
+
   sidebar: Sidebar,
 
   iconAssets: '//at.alicdn.com/t/c/font_3926422_8fxn0q41up6.css',
