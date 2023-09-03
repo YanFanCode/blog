@@ -1,5 +1,6 @@
 ---
 title: Slide page
+date: 2022-01-28
 icon: slides
 layout: Slide
 ---
@@ -109,7 +110,7 @@ You can use all kinds of markup in slides.
 Code block will get auto highlight if you enable `highlight` plugin.
 
 ```js
-const a = 1;
+const a = 1
 ```
 
 --
@@ -380,10 +381,10 @@ By enabling `highlight` plugin, you can highlight code blocks.
 You can use `[a-b|c-d]` syntax to highlight lines by steps.
 
 ```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = (x) => 1 + 2 + x;
-c(3);
+let a = 1
+let b = 2
+let c = (x) => 1 + 2 + x
+c(3)
 ```
 
 --
