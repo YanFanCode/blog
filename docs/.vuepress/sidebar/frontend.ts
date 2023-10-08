@@ -40,7 +40,7 @@ export default [
         icon: 'javascript',
         prefix: 'javascript/',
         collapsible: true,
-        children: ['', '001-深入理解对象属性']
+        children: ['', '01_this的指向']
       }
     ]
   },
