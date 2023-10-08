@@ -32,27 +32,23 @@ export default [
           '004-text-font',
           '005-cascade-inheritance',
           '006-background-border',
-          '007-position',
-          '008-float',
+          '007-position'
         ]
       },
       {
         text: 'JavaScript',
         icon: 'javascript',
+        prefix: 'javascript/',
         collapsible: true,
-        children: []
-      },
+        children: ['', '001-深入理解对象属性']
+      }
     ]
   },
   {
     text: '前端框架和库',
     collapsible: true,
     prefix: '/frontend/framework/',
-    children: [
-      'vue',
-      'react',
-      'node'
-    ]
+    children: ['vue', 'react', 'node']
   },
   {
     text: '前端工具和技术',

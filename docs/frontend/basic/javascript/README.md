@@ -3,8 +3,6 @@ title: JavaScript
 article: false
 icon: creative
 star: true
-date: 2023-10-08
-publish: false
 ---
 
 ::: tip JavaScript
