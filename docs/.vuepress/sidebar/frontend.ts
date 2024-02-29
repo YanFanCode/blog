@@ -41,6 +41,13 @@ export default [
         prefix: 'javascript/',
         collapsible: true,
         children: ['', '01_this的指向']
+      },
+      {
+        text: 'TypeScript',
+        icon: 'TypeScript',
+        prefix: 'TypeScript/',
+        collapsible: true,
+        children: ['', '001_基础类型']
       }
     ]
   },
