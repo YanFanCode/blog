@@ -47,7 +47,7 @@ export default [
         icon: 'TypeScript',
         prefix: 'TypeScript/',
         collapsible: true,
-        children: ['', '001_基础类型', '002_面向对象']
+        children: ['', '001_基础类型', '002_面向对象', '003_TS扩展']
       }
     ]
   },
